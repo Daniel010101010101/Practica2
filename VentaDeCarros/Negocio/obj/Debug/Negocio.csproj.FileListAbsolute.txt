@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Negocio.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Datos.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Entidades.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Datos.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\obj\Debug\Negocio.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Negocio\obj\Debug\Negocio.pdb

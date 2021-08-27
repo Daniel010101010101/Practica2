@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\bin\Debug\Entidades.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\obj\Debug\Entidades.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Entidades\obj\Debug\Entidades.pdb

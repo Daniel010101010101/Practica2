@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Vista1.exe.config
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Vista1.exe
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Vista1.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Entidades.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Negocio.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Datos.dll
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Entidades.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Negocio.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\bin\Debug\Datos.pdb
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\obj\Debug\Vista1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\obj\Debug\Vista1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\obj\Debug\Vista1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\obj\Debug\Vista1.exe
+C:\Users\ASUS\Desktop\VS\VentaDeCarros\Vista1\obj\Debug\Vista1.pdb
