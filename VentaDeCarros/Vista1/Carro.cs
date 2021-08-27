@@ -53,6 +53,7 @@ namespace Vista1
                 if (carro != null)
                 {
                     Console.WriteLine("Unidades disponibles : " + carro.Existencias + " de este modelo. ");
+                    Console.ReadKey();
                 }
             }
         }
